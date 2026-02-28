@@ -1,8 +1,8 @@
 @0     = ~Romance de'Arnise pour Baldur's Gate II~
 @1     = ~Corps de Nalia~
-@2     = ~Nalia a été capturée par Bodhi et transformée en vampire, vous obligeant à la tuer. Peut-être existe-t-il un moyen de la ramener à la vie, mais vous ignorez lequel.~
+@2     = ~Nalia a Ã©tÃ© capturÃ©e par Bodhi et transformÃ©e en vampire, vous obligeant Ã  la tuer. Peut-Ãªtre existe-t-il un moyen de la ramener Ã  la vie, mais vous ignorez lequel.~
 @3     = ~Talisman de Burwood~
-@4     = ~Ce talisman a appartenu à Burwood, le vieux maître de Nalia.~
+@4     = ~Ce talisman a appartenu Ã  Burwood, le vieux maÃ®tre de Nalia.~
 @5     = ~Teodora~ 
 @6     = ~Mendiant~
 @7     = ~Burwood~
@@ -16,30 +16,30 @@
 @15    = ~Alynder~
 @10000 = ~Le combat final contre Bodhi
 
-Bodhi est apparue dans une embuscade peu avant que j'atteigne son antre, me prévenant qu'elle savait ce que je faisais et qu'elle me volait la personne la plus chère à mon coeur : Nalia. Avant de disparaître et de lâcher d'autres de ses morts-vivants à mes trousses, Bodhi m'a dit que si je continuais, je pourrais perdre beaucoup plus que je ne croyais. Je ne peux pas abandonner le Rhynn Lanthorn... mais désormais, la vie et l'âme immortelle de quelqu'un que j'aime sont aussi en jeu !~
+Bodhi est apparue dans une embuscade peu avant que j'atteigne son antre, me prÃ©venant qu'elle savait ce que je faisais et qu'elle me volait la personne la plus chÃ¨re Ã  mon coeur : Nalia. Avant de disparaÃ®tre et de lÃ¢cher d'autres de ses morts-vivants Ã  mes trousses, Bodhi m'a dit que si je continuais, je pourrais perdre beaucoup plus que je ne croyais. Je ne peux pas abandonner le Rhynn Lanthorn... mais dÃ©sormais, la vie et l'Ã¢me immortelle de quelqu'un que j'aime sont aussi en jeu !~
 @10001 = ~Le combat final contre Bodhi
 
-Alors que je craignais depuis quelque temps que la vengeance finale de Bodhi serait de m'enlever à jamais Nalia, il semble que ce que disait le livre des légendes était vrai... l'idole d'Amaunator a non seulement ramené Nalia à la vie, mais a aussi chassé sa malédiction de vampire.~
+Alors que je craignais depuis quelque temps que la vengeance finale de Bodhi serait de m'enlever Ã  jamais Nalia, il semble que ce que disait le livre des lÃ©gendes Ã©tait vrai... l'idole d'Amaunator a non seulement ramenÃ© Nalia Ã  la vie, mais a aussi chassÃ© sa malÃ©diction de vampire.~
 @10002 = ~La traque d'Isaea
 
-Durant notre dernière visite au château, nous avons trouvé le vieux mentor de Nalia, Burwood, qui s'est récemment échappé de l'étreinte d'Isaea Roenall et s'accrochait tout juste à la vie. Avant d'expirer, Burwood a révélé que c'était Isaea qui avait organisé la mise à sac du château. Isaea s'est apparemment établi dans une nouvelle base d'opérations et cela pourrait prendre des mois avant de le trouver, mais nous avons fait une heureuse découverte : Burwood s'est échappé à l'aide d'un talisman magique spécial qui peut nous transporter directement jusqu'au point de son dernier départ. Notre chance est modérée par le fait que le talisman s'est brisé durant l'évasion de Burwood.
+Durant notre derniÃ¨re visite au chÃ¢teau, nous avons trouvÃ© le vieux mentor de Nalia, Burwood, qui s'est rÃ©cemment Ã©chappÃ© de l'Ã©treinte d'Isaea Roenall et s'accrochait tout juste Ã  la vie. Avant d'expirer, Burwood a rÃ©vÃ©lÃ© que c'Ã©tait Isaea qui avait organisÃ© la mise Ã  sac du chÃ¢teau. Isaea s'est apparemment Ã©tabli dans une nouvelle base d'opÃ©rations et cela pourrait prendre des mois avant de le trouver, mais nous avons fait une heureuse dÃ©couverte : Burwood s'est Ã©chappÃ© Ã  l'aide d'un talisman magique spÃ©cial qui peut nous transporter directement jusqu'au point de son dernier dÃ©part. Notre chance est modÃ©rÃ©e par le fait que le talisman s'est brisÃ© durant l'Ã©vasion de Burwood.
 
-Si nous trouvons Wivara, l'apprenti de Burwood, nous pourrions le lui faire réparer. Burwood croit que le garçon erre au beau milieu des Mages Cagoulés, et donc, c'est parmi leurs officiels que nous devrions commencer notre recherche.~
+Si nous trouvons Wivara, l'apprenti de Burwood, nous pourrions le lui faire rÃ©parer. Burwood croit que le garÃ§on erre au beau milieu des Mages CagoulÃ©s, et donc, c'est parmi leurs officiels que nous devrions commencer notre recherche.~
 @10003 = ~La traque d'Isaea
 
-Nous avons empêché Wivara-le-Lent-d'Esprit de se rendre auprès des Mages Cagoulés. Plus important, nous avons eu connaissance d'un maître magicien qui pourrait réparer le talisman de téléportation de Burwood. Son nom est Alynder, et nous pourrions le trouver aux Docks.~
+Nous avons empÃªchÃ© Wivara-le-Lent-d'Esprit de se rendre auprÃ¨s des Mages CagoulÃ©s. Plus important, nous avons eu connaissance d'un maÃ®tre magicien qui pourrait rÃ©parer le talisman de tÃ©lÃ©portation de Burwood. Son nom est Alynder, et nous pourrions le trouver aux Docks.~
 @10004 = ~La traque d'Isaea
 
-Nous avons trouvé Alynder, le magicien particulièrement étrange. Il nous a assuré qu'il peut réparer le talisman qui nous permettra d'atteindre Isaea, mais il a besoin de deux diamants ou de mille huit cents pièces d'or pour réaliser la réparation.~
+Nous avons trouvÃ© Alynder, le magicien particuliÃ¨rement Ã©trange. Il nous a assurÃ© qu'il peut rÃ©parer le talisman qui nous permettra d'atteindre Isaea, mais il a besoin de deux diamants ou de mille huit cents piÃ¨ces d'or pour rÃ©aliser la rÃ©paration.~
 @10005 = ~La traque d'Isaea
 
-Alynder a réparé le talisman de Burwood. En activant le dispositif, nous devrions être téléportés instantanément au point où Burwood l'a utilisé pour la dernière fois : l'antre privé du déloyal Isaea Roenall. Nalia est impatiente d'y aller sur-le-champ.~
+Alynder a rÃ©parÃ© le talisman de Burwood. En activant le dispositif, nous devrions Ãªtre tÃ©lÃ©portÃ©s instantanÃ©ment au point oÃ¹ Burwood l'a utilisÃ© pour la derniÃ¨re fois : l'antre privÃ© du dÃ©loyal Isaea Roenall. Nalia est impatiente d'y aller sur-le-champ.~
 @10006 = ~La traque d'Isaea
 
-Nous avons affronté Isaea dans sa cachette secrète. Pour faire court, il a tout avoué. Avec l'aide d'un pyromancien sous ses ordres, il a convaincu Tor'Gal et son armée de trolls qu'il était un dragon qui crachait du feu, sous forme humaine, ce qui a apparemment effrayé les puissantes, mais hautement inflammables créatures. Nalia n'a pas apprécié.~
+Nous avons affrontÃ© Isaea dans sa cachette secrÃ¨te. Pour faire court, il a tout avouÃ©. Avec l'aide d'un pyromancien sous ses ordres, il a convaincu Tor'Gal et son armÃ©e de trolls qu'il Ã©tait un dragon qui crachait du feu, sous forme humaine, ce qui a apparemment effrayÃ© les puissantes, mais hautement inflammables crÃ©atures. Nalia n'a pas apprÃ©ciÃ©.~
 @10007 = ~La traque d'Isaea
 
-En utilisant le talisman de Burwood pour nous téléporter, nous avons défait Isaea Roenall et sa suite. Nalia a eu sa vengeance contre lui pour le rôle qu'il a joué dans la mort de son père et de son mentor, et nous avons éliminé l'un des bandits les plus visqueux et fourbes d'Athkatla.~
+En utilisant le talisman de Burwood pour nous tÃ©lÃ©porter, nous avons dÃ©fait Isaea Roenall et sa suite. Nalia a eu sa vengeance contre lui pour le rÃ´le qu'il a jouÃ© dans la mort de son pÃ¨re et de son mentor, et nous avons Ã©liminÃ© l'un des bandits les plus visqueux et fourbes d'Athkatla.~
 
 
 // WeiDU prompts

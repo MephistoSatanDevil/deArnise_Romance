@@ -23,7 +23,7 @@
 @22   = ~What? No, of course not.~
 @23   = ~We prevented the catastrophe that would have followed if those beasts roamed our lands. My father and those soldiers died as much to fight the brutes as to keep them contained in the Keep, I am sure of it. So many would have been killed, or gone homeless and hungry... it would have been a terrible legacy for my father's name.~
 @24   = ~I am sorry for being so morbid, <CHARNAME>. I am sure I will feel somewhat better when my father's funeral arrangements have finally been made. We should carry on.~
-@25   = ~You were not obligated to accompany me to my father’s funeral. Most people don’t like to be reminded of death. Why did you come?~ [PGNALI02]
+@25   = ~You were not obligated to accompany me to my fatherâ€™s funeral. Most people donâ€™t like to be reminded of death. Why did you come?~ [PGNALI02]
 @26   = ~I wanted to pay my respects to a good man.~
 @27   = ~I was heading that way anyway. I enjoy visiting graveyards.~
 @28   = ~You looked like you needed a friend, and I stand by my friends in tough times.~
@@ -181,7 +181,7 @@
 @180  = ~Then I shall certainly not come to YOUR aid as you thrash and scuffle in your nightmares!~
 @181  = ~Thank you for checking on me. I will be fine. The things I see in my dreams are no more real with repetition. Mind over matter.~
 @182  = ~Let us be on our way. I shall try to think of brighter things as I go to sleep this eve.~
-@183  = ~First the keep, then my father’s funeral, now Isaea’s detestable plotting... I thought I was supposed to be helping people, but it appears I constantly need you to come to my aid.~ [PGNALI17]
+@183  = ~First the keep, then my fatherâ€™s funeral, now Isaeaâ€™s detestable plotting... I thought I was supposed to be helping people, but it appears I constantly need you to come to my aid.~ [PGNALI17]
 @184  = ~Yes. I know.~
 @185  = ~My pleasure. I can never resist a damsel in distress.~
 @186  = ~Honestly, I would have thought you might have managed an escape by yourself.~
@@ -1429,8 +1429,8 @@ Well. It is good to have someone to turn to, in any case, and my proud obligatio
 @1427 = ~If I didn't love you so, <CHARNAME>, I might be cross with you for arguing with me at a time like this. But I can overlook it because... because you give me so little choice sometimes.~
 @1428 = ~I know that life is mostly what we make it, but never exactly what we want. With you, I think we have the best chance to make it the best it can possibly be.~
 @1429 = ~I love that we make each other better. I really believe that together, we want for very little in mind and body.~
-@1430 = ~We even have a home, my family’s keep. You have done such a wonderful job as the Lord so far, I’m certain the people would welcome you as a more...permanent fixture.~
-@1431 = ~We even have a home, my family’s keep. We will have to make a few changes, I think, such as wiser investments in the long-term welfare of our tenants, but there’s no harm that can’t be undone with some compassion!~
+@1430 = ~We even have a home, my familyâ€™s keep. You have done such a wonderful job as the Lord so far, Iâ€™m certain the people would welcome you as a more...permanent fixture.~
+@1431 = ~We even have a home, my familyâ€™s keep. We will have to make a few changes, I think, such as wiser investments in the long-term welfare of our tenants, but thereâ€™s no harm that canâ€™t be undone with some compassion!~
 @1432 = ~We really never need be parted at all!~
 @1433 = ~Amen to that. I'll be by your side forevermore.~
 @1434 = ~I can't promise you anything except that I will endeavor to keep your life exciting. Everything else is a roll of the dice.~

@@ -23,12 +23,13 @@ ALWAYS
 
 
   // Character encoding conversion for BG2EE
-  ACTION_DEFINE_ARRAY deArnise_noconvert BEGIN install END
-  ACTION_DEFINE_ARRAY deArnise_reload BEGIN Setup-deArnise END
+  ACTION_DEFINE_ARRAY deArnise_noconvert BEGIN Setup-deArnise END
+  ACTION_DEFINE_ARRAY deArnise_reload BEGIN END
 
   LAF HANDLE_CHARSETS
     INT_VAR
       infer_charsets = 1
+	  from_utf8 = 1
     STR_VAR
       // Translation folders directly in the mod folder (iconv directory to keep at the same place)
       tra_path = EVAL ~%MOD_FOLDER%~
@@ -43,7 +44,7 @@ AUTO_TRA ~deArnise/%s~
 LANGUAGE ~English~ ~English~ ~deArnise/English/Setup-deArnise.tra~
 LANGUAGE ~Russian (translation by Aleksander Zudwa~ ~russian~ ~deArnise/russian/Setup-deArnise.tra~
 LANGUAGE ~Francais (traduit par Mornagest des d'Oghmatiques)~ ~french~ ~deArnise/french/Setup-deArnise.tra~
-LANGUAGE ~Simplified Chinese~ ~schinese~ ~deArnise/schinese/install.tra~
+LANGUAGE ~Simplified Chinese~ ~schinese~ ~deArnise/schinese/Setup-deArnise.tra~
 
 BEGIN @0
 
